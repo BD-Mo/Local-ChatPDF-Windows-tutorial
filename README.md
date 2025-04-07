@@ -1,1 +1,1 @@
-# Local-ChatPDF-Windows-tutorial
+# Local-Private-knowledge-base-Windows-tutorial
